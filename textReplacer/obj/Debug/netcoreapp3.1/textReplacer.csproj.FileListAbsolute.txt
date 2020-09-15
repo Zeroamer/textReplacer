@@ -1,0 +1,13 @@
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\bin\Debug\netcoreapp3.1\textReplacer.exe
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\bin\Debug\netcoreapp3.1\textReplacer.deps.json
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\bin\Debug\netcoreapp3.1\textReplacer.runtimeconfig.json
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\bin\Debug\netcoreapp3.1\textReplacer.runtimeconfig.dev.json
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\bin\Debug\netcoreapp3.1\textReplacer.dll
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\bin\Debug\netcoreapp3.1\textReplacer.pdb
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\obj\Debug\netcoreapp3.1\textReplacer.csprojAssemblyReference.cache
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\obj\Debug\netcoreapp3.1\textReplacer.csproj.CoreCompileInputs.cache
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\obj\Debug\netcoreapp3.1\textReplacer.AssemblyInfoInputs.cache
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\obj\Debug\netcoreapp3.1\textReplacer.AssemblyInfo.cs
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\obj\Debug\netcoreapp3.1\textReplacer.dll
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\obj\Debug\netcoreapp3.1\textReplacer.pdb
+D:\Coding\Random Projects\C#\textReplacer\textReplacer\obj\Debug\netcoreapp3.1\textReplacer.genruntimeconfig.cache
